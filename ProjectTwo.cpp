@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : ProjectTwo.cpp
-// Author      : Maddie Loy
+// Author      : ML
 // Version     : 1.0
 // Description : ABCU Course Information Program
 //============================================================================
